@@ -1,0 +1,5 @@
+
+Esquid:S1068")Remove this unused "mouse" private field.(ÌÉ˜ˆýÿÿÿÿ
+Bsquid:S1068"+Remove this unused "moniter" private field.(“ÕÀ“
+psquid:S1450"TRemove the "mouse" field and declare it as a local variable in the relevant methods.(ÌÉ˜ˆýÿÿÿÿ
+msquid:S1450"VRemove the "moniter" field and declare it as a local variable in the relevant methods.(“ÕÀ“
